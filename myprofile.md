@@ -48,3 +48,14 @@ print("Hello, Markdown!")
 | 需求分析 | 完成 | 小明 | 2023-01-15 |
 | 資料庫設計 | 進行中 | 小華 | 2023-01-30 |
 | 前端介面 | 未開始 | 小李 | 2023-02-15 |
+
+對齊語法看第二行的冒號位置：`|—|` 靠左、`|:—:|` 置中、`|—:|` 靠右。
+注意分隔線一定要用半形連字號 `-`，不能用中文破折號 `—`，否則表格不會生效。
+
+### 直接貼網址
+
+<https://www.nkust.edu.tw>
+
+### 嵌入影片（點圖片跳到影片）
+
+[![Markdown 教學影片](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Kaohsiung_Love_River_IMG_2728.JPG/320px-Kaohsiung_Love_River_IMG_2728.JPG)](https://www.youtube.com/watch?v=dQw4w9WgXcQ ”點縮圖觀看影片“)
