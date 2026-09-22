@@ -15,7 +15,7 @@
 
 ### 我最喜歡的網站
 
-[<cloudbet>](<https://cldbt.cloud/r/hrcheng>)
+[<FUNDEDNEXT>](https://fundednext.com/zh)
 
 ![<交易員certificate>](1.jpg)
 
