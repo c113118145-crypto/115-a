@@ -54,8 +54,4 @@ print("Hello, Markdown!")
 
 ### 直接貼網址
 
-<https://www.nkust.edu.tw>
-
-### 嵌入影片（點圖片跳到影片）
-
-[![Markdown 教學影片](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Kaohsiung_Love_River_IMG_2728.JPG/320px-Kaohsiung_Love_River_IMG_2728.JPG)](https://www.youtube.com/watch?v=dQw4w9WgXcQ ”點縮圖觀看影片“)
+<https://www.youtube.com/watch?v=oRdxUFDoQe0&list=RDoRdxUFDoQe0&start_radio=1>
