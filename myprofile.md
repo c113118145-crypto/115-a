@@ -15,7 +15,7 @@
 
 ### 我最喜歡的網站
 
-[<FUNDEDNEXT>](https://fundednext.com/zh)
+[GitHub —— 我放專案的地方](https://github.com)
 
 ![<交易員certificate>](1.jpg)
 
